@@ -1,0 +1,14 @@
+# build.yaml
+# ملف إعدادات الـ code generation لـ Drift
+# ضعه في جذر المشروع (نفس مستوى pubspec.yaml)
+
+targets:
+  $default:
+    builders:
+      drift_dev:
+        options:
+          # توليد الكود بجودة عالية
+          generate_values_in_copy_with: true
+          data_class_to_companions: true
+          # دعم null safety
+          named_parameters: true

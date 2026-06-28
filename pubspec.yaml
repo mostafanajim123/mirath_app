@@ -1,0 +1,83 @@
+name: iraqi_heritage
+description: Iraqi Heritage - استكشف تراث العراق
+publish_to: 'none'
+version: 1.0.0+2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.1.2
+  url_launcher: ^6.2.5
+  image_picker: ^1.1.2
+  shared_preferences: ^2.3.2
+  screenshot: ^3.0.0
+  share_plus: ^10.0.0
+  path_provider: ^2.1.4
+  geolocator: ^13.0.2
+  video_player: ^2.9.2
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/landmarks/
+    - assets/images/characters/
+    - assets/images/eras/
+    - assets/images/usertype/
+    - assets/images/hotels/
+    - assets/videos/
+    - assets/fonts/
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/Nunito-Variable.ttf
+          weight: 500
+        - asset: assets/fonts/Nunito-Variable.ttf
+          weight: 600
+        - asset: assets/fonts/Nunito-Variable.ttf
+          weight: 700
+        - asset: assets/fonts/Nunito-Variable.ttf
+          weight: 800
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/Lora-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/Lora-Variable.ttf
+          weight: 500
+        - asset: assets/fonts/Lora-Variable.ttf
+          weight: 600
+        - asset: assets/fonts/Lora-Variable.ttf
+          weight: 700
+        - asset: assets/fonts/Lora-Variable.ttf
+          weight: 800
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/Cairo-Variable.ttf
+          weight: 800
+    - family: Amiri
+      fonts:
+        - asset: assets/fonts/Amiri-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Amiri-Bold.ttf
+          weight: 700
+    - family: AmiriQuran
+      fonts:
+        - asset: assets/fonts/AmiriQuran-Regular.ttf
+          weight: 400

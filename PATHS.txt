@@ -1,0 +1,84 @@
+============================================================
+ IMAGES & VIDEOS PATHS  —  iraqi_heritage app
+============================================================
+
+-- CHARACTERS --
+assets/images/characters/gilgamesh.jpg
+assets/images/characters/sargon.jpg
+assets/images/characters/nebuchadnezzar.jpg
+assets/images/characters/hammurabi.jpg
+assets/images/characters/ashurbanipal.jpg
+assets/images/characters/sennacherib.jpg
+assets/images/characters/ur_nammu.jpg
+assets/images/characters/imam_ali.jpg
+assets/images/characters/al_mansur.jpg
+assets/images/characters/harun_rashid.jpg
+assets/images/characters/al_khwarizmi.jpg
+assets/images/characters/al_mutanabbi.jpg
+assets/images/characters/imam_hussein.jpg
+assets/images/characters/imam_abbas.jpg
+assets/images/characters/imam_hadi.jpg
+assets/images/characters/imam_askari.jpg
+assets/images/characters/imam_kadhim.jpg
+assets/images/characters/imam_jawad.jpg
+assets/images/characters/al_razi.jpg
+assets/images/characters/ibn_sina.jpg
+
+-- LANDMARKS --
+assets/images/landmarks/abbas_shrine.jpg
+assets/images/landmarks/aqarquf.jpg
+assets/images/landmarks/ashur.jpg
+assets/images/landmarks/askari_shrine.jpg
+assets/images/landmarks/babylon.jpg
+assets/images/landmarks/ctesiphon.jpg
+assets/images/landmarks/erbil_citadel.jpg
+assets/images/landmarks/hatra.jpg
+assets/images/landmarks/hussein_shrine.jpg
+assets/images/landmarks/imam_ali_shrine.jpg
+assets/images/landmarks/iraq_museum.jpg
+assets/images/landmarks/ishtar_gate.jpg
+assets/images/landmarks/kadhimiya_shrine.jpg
+assets/images/landmarks/malwiya.jpg
+assets/images/landmarks/marshlands.jpg
+assets/images/landmarks/mustansiriyya.jpg
+assets/images/landmarks/nimrud.jpg
+assets/images/landmarks/nineveh.jpg
+assets/images/landmarks/nippur.jpg
+assets/images/landmarks/shanidar_cave.jpg
+assets/images/landmarks/ukhaidir.jpg
+assets/images/landmarks/uruk.jpg
+assets/images/landmarks/wadi_salam.jpg
+assets/images/landmarks/ziggurat_ur.jpg
+
+-- ERAS --
+assets/images/eras/sumerian.jpg
+assets/images/eras/akkadian.jpg
+assets/images/eras/babylonian.jpg
+assets/images/eras/assyrian.jpg
+assets/images/eras/islamic.jpg
+assets/images/eras/prehistoric.jpg
+assets/images/eras/pattern.png
+
+-- HOTELS --
+assets/images/hotels/babylon_rotana.jpg
+assets/images/hotels/al_rashid.jpg
+assets/images/hotels/kareem_palace.jpg
+assets/images/hotels/najaf_international.jpg
+assets/images/hotels/grand_basra.jpg
+assets/images/hotels/mosul_opera.jpg
+
+-- USER TYPE --
+assets/images/usertype/iraqi.png
+assets/images/usertype/tourist.png
+
+-- LOGO --
+assets/images/logo.png
+
+-- VIDEOS --
+assets/videos/onboarding_bg.mp4
+assets/videos/usertype_bg.mp4
+assets/videos/home_bg.mp4
+
+============================================================
+Total: 60 images + 3 videos = 63 files
+============================================================
