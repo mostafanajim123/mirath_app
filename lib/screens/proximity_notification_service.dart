@@ -49,10 +49,10 @@ class ProximityNotificationService {
   }
 
   String _getAIInfo(Site site) {
-    final kb = IraqiKnowledgeBase();
+    // final kb = IraqiKnowledgeBase();
     // ابحث في قاعدة المعرفة عن معلومات الموقع
     final query = site.name;
-    final response = kb.getResponse(query, 'ar');
+  //  final response = kb.getResponse(query, 'ar');
     if (response != null && response.isNotEmpty && !response.contains('عذراً')) {
       return response.length > 200 ? response.substring(0, 200) + '...' : response;
     }
